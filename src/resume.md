@@ -23,16 +23,16 @@ NSERC Undergraduate Research Award recipient, Schulich Leader Scholarship recipi
 ### Software Developer, Co-op <time> January 2024 - April 2024 </time>
 <subheading> Priceline Partner Solutions </subheading>
 
-- Spearheaded major design updates for common search form components using React and TypeScript, which significantly improved mobile usability and established a consistent visual identity across platforms
-- Developed a new Contentful component in React to enable conditional rendering of merchandising placements, with end-to-end integration for product pages from search to checkout
-- Built comprehensive tests using Jest and React Testing Library, maintaining global code coverage of at least 95-100% for all projects
+- Spearheaded major design changes for common search form components using React and TypeScript, which significantly improved mobile usability and established a consistent visual identity across platforms
+- Developed a new Contentful app in React to enable conditional rendering of merchandising placements, with end-to-end intergration into product pages from search to checkout
+- Built comprehensive tests using Jest and React Testing Library, maintaining global code coverage of at least 90% for all projects
 
 ### Undergraduate Research Student <time> May 2023- August 2023 </time>
 <subheading> University of Manitoba Databases and Data Mining Lab </subheading>
 
-- Defined a mathematical framework for representing labelled directed graphs, creating an effective method for determining graph isomorphisms necessary for pruning the search space
-- Designed a naive algorithm for mining subgraphs with a longest k-path, capable of sucessfully identifying such graphs for both directed acyclic graphs (DAG) and cyclic
-- Implemented and tested the algorithm using Java against common graph mining datasets, showing comparable runtimes compared to currrent DAG mining algorithms
+- Designed a DFS mining algorithm capable of sucessfully identifying frequent k-paths for labelled directed graphs, both acyclic (DAG) and cyclic
+- Designed a system for pruning duplicate subgraph candidate and increasing search efficiency by using a modified minimum DFS encoding
+- Implemented and tested the algorithm in Java against common graph mining datasets, showing comparable runtimes to current algorithms on sparse graphs
 
 ## Projects
 
