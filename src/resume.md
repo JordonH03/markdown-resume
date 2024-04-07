@@ -63,8 +63,8 @@ NSERC Undergraduate Research Award recipient, Schulich Leader Scholarship recipi
 - Personally interviewed over 40 candidates to build a team of 20 individuals with strong interpersonal, organizational, and communication skills
 
 ## Skills
-**Languages** : CSS, HTML Java, JavaScript/TypeScript, Python, Processing, SQL
+**Languages** : CSS, HTML, Java, JavaScript/TypeScript, Processing, Python, SQL
 
 **Libraries and Frameworks**: Jest, React, React Testing Library, TailwindCSS
 
-**Tools**: Figma, Git, GitHub
+**Tools**: Agile, Figma, Git, GitHub
