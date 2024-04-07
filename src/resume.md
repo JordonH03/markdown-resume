@@ -48,12 +48,19 @@ NSERC Undergraduate Research Award recipient, Schulich Leader Scholarship recipi
 
 ## Community Involvement
 
-### Co-Chair <time> January 2023 - January 2024 </time>
+### Internal Executive <time> April 2023 - April 2024 </time>
 <subheading> Canadian Unviersity Software Engineering Conference (CUSEC) </subheading>
 
-- Oversaw team operations to execute a successful 3 day conference for 300 attendees from over 10 universities across Canada
-- Mentored organizers on 
-- Personally interviewed over 40 candidates to build a team of 20 individuals with strong organizational and communication skills
+- Led event coordination during a 24-hour hackathon by monitoring participant check-in, food service, and project submissions to ensure efficient operations and high satisfaction for over 300 attendees
+- Facilitated focused and efficient meetings to ensure ownership of responsibilities and effective communciation among executives
+- Collaborated with 2 CS student groups to successfully execute a large-scale picnic for over 80 attendees
+
+### Co-Chair <time> January 2023 - January 2024 </time>
+<subheading> Canadian University Software Engineering Conference (CUSEC) </subheading>
+
+- Oversaw team operations to execute a successful 3 day conference for 300 attendees from over 15 schools across Canada
+- Swiftly resolved critical challenges including team restructuring, equipment management, and conference incident reports to create a safe and healthy environment for organizers and attendees
+- Personally interviewed over 40 candidates to build a team of 20 individuals with strong interpersonal, organizational, and communication skills
 
 ## Skills
 **Languages** : CSS, HTML Java, JavaScript/TypeScript, Python, Processing, SQL
