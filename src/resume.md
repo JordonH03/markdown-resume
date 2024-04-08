@@ -43,8 +43,10 @@ NSERC Undergraduate Research Award recipient, Schulich Leader Scholarship recipi
 - Spearheaded low-fidelity designing 
 - built a responsive music library, utilizing TailwindCSS to create easily 
 
-### Pokemon DB <time> September 2023 - December 2023 </time>
+### Circuit Breaker <time> January 2023 </time>
 
+- Collaborated with a team of 9 developers to brainstorm and produce an RPG puzzle game in Godot for a 48-hour game jam with the theme "glitch"
+- Developed player movement and map interaction logic using GDScript to control transition between mini-games
 
 ## Community Involvement
 
