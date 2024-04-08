@@ -36,12 +36,15 @@ NSERC Undergraduate Research Award recipient, Schulich Leader Scholarship recipi
 
 ## Projects
 
-<!-- ### ROS Bridge Rover <time> April 2024 - Present </time> -->
+### Pokémon DB <time> September 2023 - December 2023 </time>
 
-### VinylMusic <time> September 2023 - December 2023 </time>
-- 
-- Spearheaded low-fidelity designing 
-- built a responsive music library, utilizing TailwindCSS to create easily 
+- Designed a relational database schema modelling Pokémon characterstics and game encounter statistics
+- Programmed a script in Java to parse and sanitize data from the PokéAPI dataset, and populate a remote database using T-SQL
+- Built a Java CLI capable of making simple and complex queries, and displaying well-formatted results for users
+
+### Music Player Interface <time> September 2023 - December 2023 </time>
+
+- Designed and prototyped a music library in HTML, JavaScript, and TailwindCSS that allows users to search, queue, and play saved songs
 
 ### Circuit Breaker <time> January 2023 </time>
 
