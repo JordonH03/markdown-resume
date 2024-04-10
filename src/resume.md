@@ -5,7 +5,7 @@
 
 <span class="info">
 
-+1 (204) 510-5713 | [hongj1@myumanitoba.ca](mailto:hongj1@myumanitoba.ca) | [linkedin/in/jordonhong](https://linkedin.com/in/jordonhong) | [github.com/JordonH03](https://github.com/JordonH03)
++1 (204) 510-5713 | <a>[hongj1@myumanitoba.ca](mailto:hongj1@myumanitoba.ca)</a> | <a>[linkedin/in/jordonhong](https://linkedin.com/in/jordonhong)</a> | <a>[github.com/JordonH03](https://github.com/JordonH03)</a>
 
 </span>
 
@@ -24,15 +24,15 @@ NSERC Undergraduate Research Award recipient, Schulich Leader Scholarship recipi
 <subheading> Priceline Partner Solutions </subheading>
 
 - Spearheaded major design changes for common search form components using React and TypeScript, which significantly improved mobile usability and established a consistent visual identity across platforms
-- Developed a new Contentful app in React to enable conditional rendering of merchandising placements, with end-to-end intergration into product pages from search to checkout
+- Developed a new Contentful app in React to enable conditional rendering of merchandising placements, integrated into product pages from search to checkout
 - Built comprehensive tests using Jest and React Testing Library, maintaining global code coverage of at least 90% for all projects
 
 ### Undergraduate Research Student <time> May 2023- August 2023 </time>
 <subheading> University of Manitoba Databases and Data Mining Lab </subheading>
 
-- Designed a DFS mining algorithm capable of sucessfully identifying frequent k-paths for labelled directed graphs, both acyclic (DAG) and cyclic
-- Designed a system for pruning duplicate subgraph candidate and increasing search efficiency by using a modified minimum DFS encoding
-- Implemented and tested the algorithm in Java against common graph mining datasets, showing comparable runtimes to current algorithms on sparse graphs
+- Designed a DFS mining algorithm capable of identifying frequent k-paths in cyclic and acyclic labelled directed graphs
+- Designed a system for pruning duplicate subgraphs and increasing search efficiency by using a modified minimum DFS encoding
+- Implemented and tested the algorithm in Java against common datasets, showing comparable runtimes to current algorithms on sparse graphs
 
 ## Projects
 
@@ -42,13 +42,13 @@ NSERC Undergraduate Research Award recipient, Schulich Leader Scholarship recipi
 - Programmed a script in Java to parse and sanitize data from the PokéAPI dataset, and populate a remote database using T-SQL
 - Built a Java CLI capable of making simple and complex queries, and displaying well-formatted results for users
 
-### Music Player Interface <time> September 2023 - December 2023 </time>
+<!-- ### Music Player Interface <time> September 2023 - December 2023 </time>
 
-- Designed and prototyped a music library in HTML, JavaScript, and TailwindCSS that allows users to search, queue, and play saved songs
+- Designed and prototyped a music library in HTML, JavaScript, and TailwindCSS that allows users to search, queue, and play saved songs -->
 
 ### Circuit Breaker <time> January 2023 </time>
 
-- Collaborated with a team of 9 developers to brainstorm and produce an RPG puzzle game in Godot for a 48-hour game jam with the theme "glitch"
+- Collaborated with other developers to brainstorm and produce an RPG puzzle game in Godot for a 48-hour game jam
 - Developed player movement and map interaction logic using GDScript to control transition between mini-games
 
 ## Community Involvement
@@ -56,15 +56,14 @@ NSERC Undergraduate Research Award recipient, Schulich Leader Scholarship recipi
 ### Internal Executive <time> April 2023 - April 2024 </time>
 <subheading> Canadian Unviersity Software Engineering Conference (CUSEC) </subheading>
 
-- Led event coordination during a 24-hour hackathon by monitoring participant check-in, food service, and project submissions to ensure efficient operations and high satisfaction for over 300 attendees
+- Led event coordination during a 24-hour hackathon by coordinating participant check-in, food service, and project submissions to ensure efficient operations and high satisfaction for over 300 attendees
 - Facilitated focused and efficient meetings to ensure ownership of responsibilities and effective communciation among executives
-- Collaborated with 2 CS student groups to successfully execute a large-scale picnic for over 80 attendees
 
 ### Co-Chair <time> January 2023 - January 2024 </time>
 <subheading> Canadian University Software Engineering Conference (CUSEC) </subheading>
 
 - Oversaw team operations to execute a successful 3 day conference for 300 attendees from over 15 schools across Canada
-- Swiftly resolved critical challenges including team restructuring, equipment management, and conference incident reports to create a safe and healthy environment for organizers and attendees
+- Swiftly resolved critical challenges including team restructuring, equipment management, and incident reports to create a safe and healthy environment for organizers and attendees
 - Personally interviewed over 40 candidates to build a team of 20 individuals with strong interpersonal, organizational, and communication skills
 
 ## Skills

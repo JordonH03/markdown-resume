@@ -57,6 +57,7 @@ li {
 
 a {
     color: #265c33;
+    text-decoration: underline;
 }
 
 a:hover {
