@@ -16,7 +16,9 @@
 
 **GPA**: 4.08/4.50, Dean's Honour List
 
-NSERC Undergraduate Research Award recipient, Schulich Leader Scholarship recipient
+NSERC Undergraduate Research Award recipient <time> May 2023 </time>
+
+Schulich Leader Scholarship recipient <time> June 2021 </time>
 
 ## Work Experience
 
@@ -25,7 +27,7 @@ NSERC Undergraduate Research Award recipient, Schulich Leader Scholarship recipi
 
 - Spearheaded major design changes for common search form components using React and TypeScript, which significantly improved mobile usability and established a consistent visual identity across platforms
 - Developed a new Contentful app in React to enable conditional rendering of merchandising placements, integrated into product pages from search to checkout
-- Built comprehensive tests using Jest and React Testing Library, maintaining global code coverage of at least 90% for all projects
+- Built comprehensive test suites using Jest and React Testing Library, maintaining global code coverage of at least 90% and resulting in robust and reliable code
 
 ### Undergraduate Research Student <time> May 2023- August 2023 </time>
 <subheading> University of Manitoba Databases and Data Mining Lab </subheading>
@@ -56,7 +58,7 @@ NSERC Undergraduate Research Award recipient, Schulich Leader Scholarship recipi
 ### Internal Executive <time> April 2023 - April 2024 </time>
 <subheading> Canadian Unviersity Software Engineering Conference (CUSEC) </subheading>
 
-- Led event coordination during a 24-hour hackathon by coordinating participant check-in, food service, and project submissions to ensure efficient operations and high satisfaction for over 300 attendees
+- Led a 24-hour hackathon by by coordinating participant check-in, scheduling, and project presentations to ensure efficient operations and high satisfaction for over 300 attendees
 - Facilitated focused and efficient meetings to ensure ownership of responsibilities and effective communciation among executives
 
 ### Co-Chair <time> January 2023 - January 2024 </time>
@@ -71,4 +73,4 @@ NSERC Undergraduate Research Award recipient, Schulich Leader Scholarship recipi
 
 **Libraries and Frameworks**: Jest, React, React Testing Library, TailwindCSS
 
-**Tools**: Agile, Figma, Git, GitHub
+**Tools and Software**: Agile, Figma, Git, GitHub
