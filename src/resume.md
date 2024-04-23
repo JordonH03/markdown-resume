@@ -39,10 +39,10 @@
 - Programmed a script in Java to parse and sanitize data from the PokéAPI dataset, and **populate a remote database using T-SQL**
 - **Built a user-friendly Java CLI** capable of simple and complex queries that provide quick and relevant results
 
-### Circuit Breaker | Godot, GDScript  <time> January 2023 </time>
+### Circuit Breaker | Godot, GDScript  <time> 2023 </time>
 
 - Collaborated with 4 other developers to produce an RPG puzzle game in Godot for a 48-hour game jam
-- Developed player movement and map interaction logic using GDScript to control transitions between the core map and mini-games
+- Developed player movement and map interaction logic using GDScript to control transitions between the game map and mini-games
 
 ## Community Involvement
 
@@ -50,7 +50,7 @@
 <subheading> University of Manitoba .devClub </subheading>
 
 - Led a 24-hour hackathon by coordinating participant check-in, scheduling, and project presentations to ensure efficient operations and high satisfaction for **over 300 attendees**
-- Chaired executive meetings with goal-oriented and detailed minutes to ensure ownership of responsibilities and facilitate effective communication among members
+- Chaired executive meetings with detailed minutes using robert's Rules of Order to ensure ownership of responsibilities and facilitate effective communication among members
 
 ### Co-Chair <time> January 2023 - January 2024 </time>
 <subheading> Canadian University Software Engineering Conference (CUSEC) </subheading>
