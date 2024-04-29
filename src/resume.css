@@ -68,6 +68,11 @@ code {
     color: black;
 }
 
+.skills {
+    color: black;
+    font-size: 0.8rem;
+}
+
 time {
     float: right;
     font-size: inherit;
