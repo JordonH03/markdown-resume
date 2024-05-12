@@ -50,8 +50,8 @@
 
 ### Vinyl Music | <span class="skills"> JavaScript, TailwindCSS, HTML, CSS </span> <time> 2023 </time>
 
-- Worked in a team of 4 to design and prototype a music library and player
-- **Implemented the library content and page history functionality**, enabling intuitive navigation through library content
+- Worked in a team of 4 to design and implement a high-fidelity prototype for a music library and player
+- Implemented the library section content and page history functionality, allowing intuitive navigation through the library content
 
 ### Circuit Breaker | <span class="skills"> Godot Game Engine, GDScript </span>  <time> 2023 </time>
 
