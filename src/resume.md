@@ -50,8 +50,8 @@
 
 ### Vinyl Music | <span class="skills"> JavaScript, TailwindCSS, HTML, CSS </span> <time> 2023 </time>
 
-- Worked in a team of 4 to design and implement a high-fidelity prototype for a music library and player
-- Implemented the library section content and page history functionality, allowing intuitive navigation through the library content
+- Worked in a team of 4 to design and implement a visually appealing high-fidelity vertical prototype for a music library and player
+- Implemented page history functionality in JavaScript, **allowing users to navigate through the interface** in response to user input
 
 ### Circuit Breaker | <span class="skills"> Godot Game Engine, GDScript </span>  <time> 2023 </time>
 
@@ -64,7 +64,7 @@
 <subheading> University of Manitoba .devClub </subheading>
 
 - Led a 24-hour hackathon by coordinating participant check-in, scheduling, and project presentations to ensure efficient operations and high satisfaction for **over 300 attendees**
-- Chaired executive meetings with detailed minutes using robert's Rules of Order to ensure ownership of responsibilities and facilitate effective communication among members
+- Chaired executive meetings with detailed minutes using Robert's Rules of Order to ensure ownership of responsibilities and facilitate effective communication among members
 
 ### Co-Chair <time> January 2023 - January 2024 </time>
 <subheading> Canadian University Software Engineering Conference (CUSEC) </subheading>
