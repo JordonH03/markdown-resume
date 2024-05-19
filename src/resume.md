@@ -1,5 +1,5 @@
 <link rel="stylesheet" type="text/css" href="resume.css">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Nunito">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Open+Sans">
 
 <span class="name"> Jordon Hong </span>
 
