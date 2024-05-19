@@ -1,5 +1,5 @@
 <link rel="stylesheet" type="text/css" href="resume.css">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Nunito">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Nunito">
 
 <span class="name"> Jordon Hong </span>
 
@@ -19,26 +19,28 @@
 **Awards**: NSERC Undergraduate Student Research Award (2023), Schulich Leader Scholarship (2021)
 
 ## Skills
-**Languages**: JavaScript/TypeScript, Python, Java, SQL, HTML, CSS, Processing
+**Languages**: JavaScript/TypeScript, Python, Java, C/C++, SQL, HTML/CSS, Processing, GDScript
 
 **Libraries and Frameworks**: React, Jest, React Testing Library, TailwindCSS
 
-**Tools and Software**: Agile, Git, GitHub, Figma
+**Tools and Software**: Agile, Git, GitHub, Figma, Godot Game Engine
 
 ## Work Experience
 
-### Software Developer, Co-op <time> January 2024 - April 2024 </time>
-<subheading> Priceline Partner Solutions </subheading>
+### Priceline Partner Solutions <time> January 2024 - April 2024 </time>
+<subheading> Software Developer Co-op </subheading>
 
-- Developed a Contentful app that conditionally renders merchandising placements and seamlessly integrates into existing apps, enabling marketers to **enhance and incentivize bookings for hundreds of hotel properties**
-- Spearheaded major updates to search forms by implementing new mobile components that **significantly improve usability** and establish a **consistent visual design** across platforms
+- Developed a web application using Typescript and Contentful, enabled marketers to **enhance bookings for hundreds of hotel properties** using custom render conditions
+- Spearheaded major upgrades to search form components by implementing new designs that **significantly improve mobile usability** and establish a **consistent visual identity** across platforms
+- Built a REST API endpoint in TypeScript and SQL, allowing developers and product managers to **easily retrieve aggregated partner information** via an internal console tool 
 - Built comprehensive test suites with Jest and React Testing Library, resulting in maintainable and robust code with over 90% coverage
 
-### Undergraduate Research Student <time> May 2023 - August 2023 </time>
-<subheading> University of Manitoba Databases and Data Mining Lab </subheading>
+### University of Manitoba Database and Data Mining Lab <time> May 2023 - August 2023 </time>
+<subheading> Undergraduate Research Student </subheading>
 
-- **Designed a DFS labelling system and algorithm** capable of identifying frequent k-paths in cyclic and acyclic directed graphs
-- Implemented Java scripts to test the algorithm, showing **comparable runtime to existing algorithms** on sparse graphs
+- Designed a canonical labelling system to **effectively represent and compare directed subgraphs** during mining
+- Designed a DFS algorithm capable of **identifying k-paths in cyclic and acyclic directed graphs**
+- Implemented and tested the algorithm in Java, showing **comparable runtime to existing algorithms** on sparse graphs
 
 ## Projects
 
@@ -46,17 +48,17 @@
 
 - Worked in a team of 3 to design a relational database modelling Pokémon characteristics and statistics
 - Programmed a script in Java to **parse and sanitize data from the PokéAPI dataset**, and **populate a remote database** using T-SQL
-- Built a **user-friendly Java CLI** to execute simple and complex queries that provide quick and relevant results for users
+- Built a **user-friendly Java CLI**, allowing users to execute simple and complex queries with quick and relevant results
 
 ### Vinyl Music | <span class="skills"> JavaScript, TailwindCSS, HTML, CSS </span> <time> 2023 </time>
 
 - Worked in a team of 4 to design and implement a visually appealing high-fidelity vertical prototype for a music library and player
-- Implemented page history functionality in JavaScript, **allowing users to navigate through the interface** in response to user input
+- Implemented **page history functionality** in JavaScript, enabling navigation through the interface that adapts to user input
 
-### Circuit Breaker | <span class="skills"> Godot Game Engine, GDScript </span>  <time> 2023 </time>
+<!-- ### Circuit Breaker | <span class="skills"> Godot Game Engine, GDScript </span>  <time> 2023 </time>
 
 - Collaborated with 10 developers and designers to produce an RPG puzzle game using Godot for a 48-hour game jam
-- **Developed player movement and map logic** using GDScript to **control transitions** between the game map and mini-games
+- Developed player movement and map logic using GDScript to **control transitions between the game map and mini-games** -->
 
 ## Leadership Experience
 
@@ -64,11 +66,11 @@
 <subheading> University of Manitoba .devClub </subheading>
 
 - Led a 24-hour hackathon by coordinating participant check-in, scheduling, and project presentations to ensure efficient operations and high satisfaction for **over 300 attendees**
-- Chaired executive meetings with detailed minutes using Robert's Rules of Order to ensure ownership of responsibilities and facilitate effective communication among members
+- Chaired executive meetings with detailed minutes using Robert's Rules of Order to ensure ownership of responsibilities and facilitate effective communication among 13 executive members and councillors
 
 ### Co-Chair <time> January 2023 - January 2024 </time>
 <subheading> Canadian University Software Engineering Conference (CUSEC) </subheading>
 
 - Oversaw team operations to execute a successful **3-day conference for 250 attendees** from over **17 universities** across Canada
 - Swiftly resolved critical challenges including **team restructuring, on-site team coordination, and managing incident reports** to create a safe and healthy environment for organizers and attendees
-- **Interviewed 40+ candidates**, built team of 20 with strong interpersonal, organizational and communication skills
+- **Interviewed 40+ candidates** to build a team of 20 with strong interpersonal, organizational and communication skills
