@@ -14,16 +14,17 @@
 ### Bachelor of Science, Computer Science Major (Co-op) <time> September 2021 - May 2026 </time>
 <subheading> University of Manitoba </subheading>
 
-**GPA**: 4.11/4.50, Dean's Honour List
+**GPA**: 4.15/4.50, Dean's Honour List
 
 **Awards**: NSERC Undergraduate Student Research Award (2023), Schulich Leader Scholarship (2021)
 
 ## Skills
-**Languages**: JavaScript/TypeScript, Python, Java, C/C++, SQL, HTML/CSS, Processing, GDScript
+**Languages**: Python, Java, JavaScript/TypeScript, SQL, HTML/CSS, Processing, GDScript
+<!-- **Languages**: JavaScript/TypeScript, Python, Java, C/C++, SQL, HTML/CSS, Processing, GDScript -->
 
 **Libraries and Frameworks**: React, Jest, React Testing Library, TailwindCSS
 
-**Tools and Software**: Agile, Git, GitHub, Figma, Godot Game Engine
+**Tools and Software**: Git, GitHub, Jira, Figma, Godot Game Engine
 
 ## Work Experience
 
@@ -31,9 +32,9 @@
 <subheading> Software Developer Co-op </subheading>
 
 - Developed a web application using Typescript and Contentful, enabled marketers to **enhance bookings for hundreds of hotel properties** using custom render conditions
-- Spearheaded major upgrades to search form components by implementing new designs that **significantly improve mobile usability** and establish a **consistent visual identity** across platforms
-- Built a REST API endpoint in TypeScript and SQL, allowing developers and product managers to **easily retrieve aggregated partner information** via an internal console tool 
-- Built comprehensive test suites with Jest and React Testing Library, resulting in maintainable and robust code with over 90% coverage
+- Spearheaded major upgrades to search form components by implementing new designs that **significantly improve mobile usability** and establish a consistent visual identity across platforms
+- Built a REST API endpoint in TypeScript and SQL, allowing developers and product managers to **easily retrieve aggregated partner data** via an internal console tool 
+- Built comprehensive test suites with Jest and React Testing Library, resulting in maintainable and robust code with **over 90% coverage**
 
 ### University of Manitoba Database and Data Mining Lab <time> May 2023 - August 2023 </time>
 <subheading> Undergraduate Research Student </subheading>
@@ -53,7 +54,7 @@
 ### Vinyl Music | <span class="skills"> JavaScript, TailwindCSS, HTML, CSS </span> <time> 2023 </time>
 
 - Worked in a team of 4 to design and implement a visually appealing high-fidelity vertical prototype for a music library and player
-- Implemented **page history functionality** in JavaScript, enabling navigation through the interface that adapts to user input
+- Implemented page history functionality in JavaScript, enabling **interface navigation that adapts to user input**
 
 <!-- ### Circuit Breaker | <span class="skills"> Godot Game Engine, GDScript </span>  <time> 2023 </time>
 
