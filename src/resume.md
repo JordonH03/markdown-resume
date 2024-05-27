@@ -19,8 +19,8 @@
 **Awards**: NSERC Undergraduate Student Research Award (2023), Schulich Leader Scholarship (2021)
 
 ## Skills
-**Languages**: Python, Java, JavaScript/TypeScript, SQL, HTML/CSS, Processing, GDScript
-<!-- **Languages**: JavaScript/TypeScript, Python, Java, C/C++, SQL, HTML/CSS, Processing, GDScript -->
+<!-- **Languages**: Python, Java, JavaScript/TypeScript, SQL, HTML/CSS, Processing, GDScript -->
+**Languages**: JavaScript/TypeScript, Python, Java, C/C++, SQL, HTML/CSS, Processing, GDScript
 
 **Libraries and Frameworks**: React, Jest, React Testing Library, TailwindCSS
 
