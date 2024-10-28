@@ -19,14 +19,20 @@
 **Awards**: NSERC Undergraduate Student Research Award (2023), Schulich Leader Scholarship (2021)
 
 ## Skills
-<!-- **Languages**: Python, Java, JavaScript/TypeScript, SQL, HTML/CSS, Processing, GDScript -->
-**Languages**: JavaScript/TypeScript, Python, Java, C/C++, SQL, HTML/CSS, Processing, GDScript
+**Languages**: JavaScript/TypeScript, Java, Python, C/C++, SQL, HTML/CSS, Processing, GDScript
 
-**Libraries and Frameworks**: React, Jest, React Testing Library, TailwindCSS
+**Libraries and Frameworks**: React, Angular, Java Spring Boot, Jest, TailwindCSS, Backstage
 
-**Tools and Software**: Git, GitHub, Jira, Figma, Godot Game Engine
+**Tools and Software**: Git, GitHub, Postman, Figma, IntelliJ IDEA, Jira, Godot Game Engine
 
 ## Work Experience
+
+### RBC <time> September 2024 - December 2024 </time>
+<subheading> Developer Co-op </subheading>
+
+- Developing a new plugin and front-end page using Spotify Backstage and React to **construct a centralized catalog for internal developer tools used across the organization**
+- Conducted thorough testing and bug fixes in our team's front-end application to **increase accessibility**
+- **Resolved critical security vulnerabilities** in several API services to maintain compliance with cloud migration
 
 ### Priceline Partner Solutions <time> January 2024 - April 2024 </time>
 <subheading> Software Developer Co-op </subheading>
