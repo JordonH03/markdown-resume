@@ -30,9 +30,8 @@
 ### RBC <time> September 2024 - December 2024 </time>
 <subheading> Developer Co-op </subheading>
 
-- Developing a new plugin and front-end page using Spotify Backstage and React to **construct a centralized catalog for internal developer tools used across the organization**
-- Conducted thorough testing and bug fixes in our team's front-end application to **increase accessibility**
-- **Resolved critical security vulnerabilities** in several API services to maintain compliance with cloud migration
+- Developing a plugin for the RBC Developer Portal using Spotify Backstage and React to **provide a new catalog page for developer tools used across the organization**
+- Conducted thorough testing and bug fixes in the Avion team's Linked Loyalty application to increase accessibility
 
 ### Priceline Partner Solutions <time> January 2024 - April 2024 </time>
 <subheading> Software Developer Co-op </subheading>
@@ -51,16 +50,19 @@
 
 ## Projects
 
-### Pokémon DB | <span class="skills"> Java, SQL </span> <time> 2023 </time>
+### Pokémon DB | <span class="skills"> Java, SQL </span>
 
 - Worked in a team of 3 to design a relational database modelling Pokémon characteristics and statistics
 - Programmed a script in Java to **parse and sanitize data from the PokéAPI dataset**, and **populate a remote database** using T-SQL
 - Built a **user-friendly Java CLI**, allowing users to execute simple and complex queries with quick and relevant results
 
-### Vinyl Music | <span class="skills"> JavaScript, TailwindCSS, HTML, CSS </span> <time> 2023 </time>
+<!-- ### Vinyl Music | <span class="skills"> JavaScript, TailwindCSS, HTML, CSS </span> <time> 2023 </time>
 
 - Worked in a team of 4 to design and implement a visually appealing high-fidelity vertical prototype for a music library and player
-- Implemented page history functionality in JavaScript, enabling **interface navigation that adapts to user input**
+- Implemented page history functionality in JavaScript, enabling **interface navigation that adapts to user input** -->
+
+### Blockchain | <span class="skills">Python</span>
+- Built a **blockchain peer from scratch** in Python, using proof-of-work to verify over 5000 blocks on the network
 
 <!-- ### Circuit Breaker | <span class="skills"> Godot Game Engine, GDScript </span>  <time> 2023 </time>
 
@@ -69,11 +71,11 @@
 
 ## Leadership Experience
 
-### Internal Executive <time> April 2023 - April 2024 </time>
+<!-- ### Internal Executive <time> April 2023 - April 2024 </time>
 <subheading> University of Manitoba .devClub </subheading>
 
 - Led a 24-hour hackathon by coordinating participant check-in, scheduling, and project presentations to ensure efficient operations and high satisfaction for **over 300 attendees**
-- Chaired executive meetings with detailed minutes to ensure ownership of responsibilities and facilitate effective communication among 13 executive members and councillors
+- Chaired executive meetings with detailed minutes to ensure ownership of responsibilities and facilitate effective communication among 13 executive members and councillors -->
 
 ### Co-Chair <time> January 2023 - January 2024 </time>
 <subheading> Canadian University Software Engineering Conference (CUSEC) </subheading>
