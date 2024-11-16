@@ -57,7 +57,7 @@
 - Programmed a script in Java to **parse and sanitize data from the PokéAPI dataset**, and **populate a remote database** using T-SQL
 - Built a **user-friendly Java CLI**, allowing users to execute simple and complex queries with quick and relevant results
 
-### Vinyl Music | <span class="skills"> JavaScript, TailwindCSS, HTML, CSS </span> <time> 2023 </time>
+### Vinyl Music | <span class="skills"> JavaScript, TailwindCSS, HTML, CSS </span>
 
 - Worked in a team of 4 to design and implement a visually appealing high-fidelity vertical prototype for a music library and player
 - Implemented page history functionality in JavaScript, enabling **interface navigation that adapts to user input**
