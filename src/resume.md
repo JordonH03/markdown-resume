@@ -23,15 +23,16 @@
 
 **Libraries and Frameworks**: React, Angular, Java Spring Boot, Jest, TailwindCSS, Backstage
 
-**Tools and Software**: Git, GitHub, Postman, Figma, IntelliJ IDEA, Jira, Godot Game Engine
+**Tools and Software**: Git, GitHub, Postman, Figma, IntelliJ IDEA, Android Studio, Jira, Godot Game Engine
 
 ## Work Experience
 
 ### RBC <time> September 2024 - December 2024 </time>
 <subheading> Developer Co-op </subheading>
 
-- Developing a plugin for the RBC Developer Portal using Spotify Backstage and React to **provide a new catalog page for developer tools used across the organization**
-- Conducted thorough testing and bug fixes in the Avion team's Linked Loyalty application to increase accessibility
+- Independently developed a plugin with Backstage for the RBC Developer Portal to **create a new catalog entity kind for developer tools used across the organization**
+- Built a new catalog page with **React and RIG components to display catalog developer tools in a clean and modern card layout**
+- Addressed key accessibility issues in the Avion Linked Loyalty application to maintain RBC's standards for WCAG AA conformance
 
 ### Priceline Partner Solutions <time> January 2024 - April 2024 </time>
 <subheading> Software Developer Co-op </subheading>
@@ -56,13 +57,13 @@
 - Programmed a script in Java to **parse and sanitize data from the PokéAPI dataset**, and **populate a remote database** using T-SQL
 - Built a **user-friendly Java CLI**, allowing users to execute simple and complex queries with quick and relevant results
 
-<!-- ### Vinyl Music | <span class="skills"> JavaScript, TailwindCSS, HTML, CSS </span> <time> 2023 </time>
+### Vinyl Music | <span class="skills"> JavaScript, TailwindCSS, HTML, CSS </span> <time> 2023 </time>
 
 - Worked in a team of 4 to design and implement a visually appealing high-fidelity vertical prototype for a music library and player
-- Implemented page history functionality in JavaScript, enabling **interface navigation that adapts to user input** -->
+- Implemented page history functionality in JavaScript, enabling **interface navigation that adapts to user input**
 
-### Blockchain | <span class="skills">Python</span>
-- Built a **blockchain peer from scratch** in Python, using proof-of-work to verify over 5000 blocks on the network
+<!-- ### Blockchain | <span class="skills">Python</span>
+- Built a **blockchain peer from scratch** in Python, using proof-of-work to verify over 5000 blocks on the network -->
 
 <!-- ### Circuit Breaker | <span class="skills"> Godot Game Engine, GDScript </span>  <time> 2023 </time>
 
