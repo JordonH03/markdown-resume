@@ -14,9 +14,9 @@
 ### University of Manitoba <time> September 2021 - May 2026 </time>
 <subheading> Bachelor of Science, Computer Science Major (Co-op) </subheading>
 
-**GPA**: 4.15/4.50, Dean's Honour List
+**GPA**: 4.18/4.50, Dean's Honour List
 
-**Awards**: NSERC Undergraduate Student Research Award (2023), Schulich Leader Scholarship (2021)
+**Awards**: NSERC Undergraduate Student Research Award (2023), Schulich Leader Scholarship (2021-2024)
 
 ## Skills
 **Languages**: JavaScript/TypeScript, Java, Python, C/C++, SQL, HTML/CSS, Processing, GDScript
