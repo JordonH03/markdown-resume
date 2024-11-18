@@ -62,15 +62,15 @@
 - Worked in a team of 4 to design and implement a visually appealing high-fidelity vertical prototype for a music library and player
 - Implemented page history functionality in JavaScript, enabling **interface navigation that adapts to user input**
 
-<!-- ### Blockchain | <span class="skills">Python</span>
-- Built a **blockchain peer from scratch** in Python, using proof-of-work to verify over 5000 blocks on the network -->
+### Blockchain | <span class="skills">Python</span>
+- Built a **blockchain peer from scratch** in Python, using proof-of-work to verify over 5000 blocks on a distributed network
 
-<!-- ### Circuit Breaker | <span class="skills"> Godot Game Engine, GDScript </span>  <time> 2023 </time>
+### Circuit Breaker | <span class="skills"> Godot Game Engine, GDScript </span>
 
 - Collaborated with 10 developers and designers to produce an RPG puzzle game using Godot for a 48-hour game jam
-- Developed player movement and map logic using GDScript to **control transitions between the game map and mini-games** -->
+- Developed player movement and map logic using GDScript to **control transitions between the game map and mini-games**
 
-## Leadership Experience
+<!-- ## Leadership Experience -->
 
 <!-- ### Internal Executive <time> April 2023 - April 2024 </time>
 <subheading> University of Manitoba .devClub </subheading>
@@ -78,9 +78,9 @@
 - Led a 24-hour hackathon by coordinating participant check-in, scheduling, and project presentations to ensure efficient operations and high satisfaction for **over 300 attendees**
 - Chaired executive meetings with detailed minutes to ensure ownership of responsibilities and facilitate effective communication among 13 executive members and councillors -->
 
-### Co-Chair <time> January 2023 - January 2024 </time>
+<!-- ### Co-Chair <time> January 2023 - January 2024 </time>
 <subheading> Canadian University Software Engineering Conference (CUSEC) </subheading>
 
 - Oversaw team operations to execute a successful **3-day conference for 250 attendees** from over **17 universities** across Canada
 - Swiftly resolved critical challenges including **team restructuring, on-site team coordination, and managing incident reports** to create a safe and healthy environment for organizers and attendees
-- **Interviewed 40+ candidates** to build a team of 20 with strong interpersonal, organizational and communication skills
+- **Interviewed 40+ candidates** to build a team of 20 with strong interpersonal, organizational and communication skills -->
