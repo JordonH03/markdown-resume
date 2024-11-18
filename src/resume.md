@@ -40,7 +40,6 @@
 - Developed a web application using Typescript and Contentful, enabled marketers to **enhance bookings for hundreds of hotel properties** using custom render conditions
 - Spearheaded major upgrades to search form components by implementing new designs that **significantly improve mobile usability** and establish a consistent visual identity across platforms
 - Built a REST API endpoint in TypeScript and SQL, allowing developers and product managers to **easily retrieve aggregated partner data** via an internal console tool 
-- Built comprehensive test suites following TDD practices, resulting in maintainable and robust code with **over 90% coverage**
 
 ### University of Manitoba Database and Data Mining Lab <time> May 2023 - August 2023 </time>
 <subheading> Undergraduate Research Student </subheading>
