@@ -30,9 +30,10 @@
 ### RBC <time> September 2024 - December 2024 </time>
 <subheading> Developer Co-op </subheading>
 
-- Independently developed a plugin with Backstage for the RBC Developer Portal to **create a new catalog entity kind for developer tools used across the organization**
+- Independently developed and documented a Backstage plugin to **create a new catalog entity kind for the RBC internal developer portal used across the organization**
 - Built a new catalog page with **React and RIG components to display catalog developer tools in a clean and modern card layout**
-- Addressed key accessibility issues in the Avion Linked Loyalty application to maintain RBC's standards for WCAG AA conformance
+- Taught senior developers how to configure Dynamic Application Security Test (DAST) scans for our CI/CD pipeline
+- Worked with product owners, designers, and QEs to fix accessibility defects in the Avion Linked Loyalty app to maintain WCAG 2.1 AA conformance
 
 ### Priceline Partner Solutions <time> January 2024 - April 2024 </time>
 <subheading> Software Developer Co-op </subheading>
