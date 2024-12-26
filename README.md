@@ -5,8 +5,6 @@ Markdown resume provides a simple, elegant, and fast workflow to write resumes a
 - Tired of formatting resumes in word documents? Try writing resumes in Markdown, converting it to html, then print to pdf.
 - Applying to many jobs, and targeted resumes are hard to version control? Try writing resumes in Markdown and version control with Git.
 
-Because academic jobs require CVs instead of resumes, resume will not be updated, but CV will continue to be updated periodically. For the most recent CV, visit my [personal website](https://tengjuilin.netlify.app/cv/cv_full/).
-
 ## Prerequisite
 
 1. Download [VS Studio Code](https://code.visualstudio.com/)
@@ -32,15 +30,15 @@ Here are demos of the workflow in Windows and macOS:
 ## Directory structure
 
 - Input
-  - [`resume.md`](source/resume.md) - content of resume
-  - [`resume.css`](source/resume.css) - style of the printed resume
+  - `resume.md` - content of resume
+  - `resume.css` - style of the printed resume
 - Output
-  - [`resume.html`](source/resume.html) - html file for web display or print to pdf
-  - [`resume.pdf`](source/resume.pdf) - final resume pdf file
+  - `resume.html` - html file for web display or print to pdf
+  - `resume.pdf` - final resume pdf file
 
-### [`resume.md`](source/resume.md)
+### `resume.md`
 
-An example can be found in [`resume.md`](source/resume.md). Below are the main guidelines:
+An example can be found in `resume.md` Below are the main guidelines:
 
 - The file must contain link to stylesheet
   - `<link rel="stylesheet" type="text/css" href="resume.css">`
@@ -65,10 +63,9 @@ An example can be found in [`resume.md`](source/resume.md). Below are the main g
 - Description can be listed using Markdown style list
   - `- Designed 3 websites with cool graphics.`
 
-### [`resume.css`](source/resume.css)
+### `resume.css`
 
-[`resume.css`](source/resume.css) controls resume's styling. Change it if you want to customize the template! Below are some tips:
+`resume.css` controls resume's styling. Change it if you want to customize the template! Below are some tips:
 
-- Colored texts are `h2` and `a` tags with color `#0D47A1`.
 - To tighten the list spacing to fit content in one page, try decreasing the `li` tag's default line height of 150%.
   - Tweaking page margin in browser print option is also helpful.
