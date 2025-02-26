@@ -31,8 +31,8 @@
 <subheading> Developer Co-op </subheading>
 
 - Independently developed and documented a Backstage plugin to **create a new catalog entity kind for the RBC internal developer portal used across the organization**
-- Built a new catalog page with **React and RIG components to display catalog developer tools in a clean and modern card layout**
-- **Taught senior developers** how to configure Dynamic Application Security Test (DAST) scans for our CI/CD pipeline
+- Built a new catalog page with **React and RIG components to display catalog developer tools in a card layout**
+- **Researched and taught senior developers** how to configure DAST scans for the Helios pipeline to meet security requirements for OCP migrations
 - Worked with product owners, designers, and QEs to **fix accessibility defects in the Avion Linked Loyalty app** to maintain WCAG 2.1 AA conformance
 
 ### Priceline Partner Solutions <time> January 2024 - April 2024 </time>
@@ -49,7 +49,7 @@
 - Designed a DFS algorithm capable of **identifying k-paths in cyclic and acyclic directed graphs**
 - Implemented and tested the algorithm in Java, showing **comparable runtime to existing algorithms** on sparse graphs
 
-## Projects
+<!-- ## Projects
 
 ### Pokémon DB | <span class="skills"> Java, SQL </span>
 
@@ -60,7 +60,7 @@
 ### Vinyl Music | <span class="skills"> JavaScript, TailwindCSS, HTML, CSS </span>
 
 - Worked in a team of 4 to design and implement a visually appealing high-fidelity vertical prototype for a music library and player
-- Implemented page history functionality in JavaScript, enabling **interface navigation that adapts to user input**
+- Implemented page history functionality in JavaScript, enabling **interface navigation that adapts to user input** -->
 
 <!-- ### Blockchain | <span class="skills">Python</span>
 - Built a **blockchain peer from scratch** in Python, using proof-of-work to verify over 5000 blocks on the network -->
@@ -72,11 +72,11 @@
 
 ## Leadership Experience
 
-<!-- ### Internal Executive <time> April 2023 - April 2024 </time>
+### President <time> April 2024 - President </time>
 <subheading> University of Manitoba .devClub </subheading>
 
-- Led a 24-hour hackathon by coordinating participant check-in, scheduling, and project presentations to ensure efficient operations and high satisfaction for **over 300 attendees**
-- Chaired executive meetings with detailed minutes to ensure ownership of responsibilities and facilitate effective communication among 13 executive members and councillors -->
+- Organized a 24-hour hackathon by overseeing check-in, catering, and judging for **over 200 attendees across 45 teams** to ensure smooth operations and high student retention
+- Worked closely with the treasurer and external executive to **manage club finances and outreach to industry partners, securing 7 sponsors** for the club's annual hackathon
 
 ### Co-Chair <time> January 2023 - January 2024 </time>
 <subheading> Canadian University Software Engineering Conference (CUSEC) </subheading>
